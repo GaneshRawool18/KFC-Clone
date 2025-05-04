@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10271303752",
+    "project_id": "kfc-app-d77eb",
+    "storage_bucket": "kfc-app-d77eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10271303752:android:573e1daffebe274c29107d",
+        "android_client_info": {
+          "package_name": "com.example.kfc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARHYaW99ofdQu1NSs93-DCVD1efmhOQEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
